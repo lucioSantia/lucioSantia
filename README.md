@@ -1,14 +1,9 @@
-En este proyecto realizado, demuestro la manipulacion de las diferentes tecnologias
-adquiridas por el curso que estoy realizando en Soy Henry.
-Lo utilizado:
+# Hola, mi nombre es Lucio :sunglasses:
 
-FRONT-END
-JavaSCript
-CSS3
-HTML5
-React-Redux
+<img src="https://www.aulacreactiva.com/wp-content/uploads/2016/10/mentiras-verdades-programadores-web.jpg" alt="Soy Lucio Cucchiarelli - desarrollador web en cresimiento">
+Soy un desarrollador de software apasionado en busqueda de mas conocimiento para crear tecnologías. Algunas tecnologías con las que disfruto trabajar incluyen ReactJS, ReduxJS, SQL, Material UI, Javascript, NodeJS entre otras. Comenze a sumergirme en el mundo de la tecnologia en el 2022 principios de año 
 
-BACK-END
-NodeJS
-Express
-MySQL
+
+## Encuéntrame en la web🌎: 
+- Compartir actualizaciones en <a href="https://www.linkedin.com/in/lucio-cucchiarelli-maspoli-3424a7238/details/skills/">LinkedIn</a> 💼
+- Mi email: luciocucchiarelli_01@hotmail.com
